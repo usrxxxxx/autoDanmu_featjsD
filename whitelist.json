@@ -1,0 +1,15 @@
+{ 
+  "allow":true,
+  "remoteUpdateHours": 12,
+  "shakeTimeSeconds": 5,
+  "updateTime": "",
+  "version": "1.0.0",
+  "downloadUrl": "https://pan.baidu.com/...",
+  "changelog": "测试版本",
+  "whitelist": [
+    "风与潮"
+  ],
+  "dramas": [
+    { "name": "风与潮", "episodes": [0] }
+  ]
+}
