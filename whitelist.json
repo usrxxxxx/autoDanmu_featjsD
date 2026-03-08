@@ -8,7 +8,8 @@
   "downloadUrl": "https://pan.baidu.com/...",
   "changelog": "测试版本",
   "whitelist": [
-    "风与潮"
+    "风与潮",
+    "无忧渡"
   ],
   "dramas": [
     { "name": "风与潮", "episodes": [0] }
