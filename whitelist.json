@@ -14,5 +14,8 @@
   "dramas": [
     { "name": "风与潮", "episodes": [0] }
   ],
-  "readme":"refreshFlag:是否清除分集弹幕"
+  "readme":[
+    "refreshFlag:是否清除分集弹幕",
+    "whitelist":挂播需配置
+  ]
 }
