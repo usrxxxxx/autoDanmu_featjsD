@@ -1,5 +1,6 @@
 { 
   "allow":true,
+  "refreshFlag":true,
   "remoteUpdateHours": 12,
   "shakeTimeSeconds": 5,
   "updateTime": "",
@@ -11,5 +12,6 @@
   ],
   "dramas": [
     { "name": "风与潮", "episodes": [0] }
-  ]
+  ],
+  "readme":"refreshFlag:是否清除分集弹幕"
 }
