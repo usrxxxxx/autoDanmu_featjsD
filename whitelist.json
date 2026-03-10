@@ -9,7 +9,8 @@
   "changelog": "测试版本",
   "whitelist": [
     "风与潮",
-    "无忧渡"
+    "无忧渡",
+    "流水迢迢"
   ],
   "dramas": [
     { "name": "风与潮", "episodes": [0] }
