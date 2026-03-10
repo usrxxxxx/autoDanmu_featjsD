@@ -16,7 +16,7 @@
     { "name": "风与潮", "episodes": [0] }
   ],
   "readme":[
-    "refreshFlag": "是否清除分集弹幕",
-    "whitelist": "需配置，在播剧集放第一位；（挂播仅要求配置whitelist，讨论/弹幕除要求配置whitelist第一位以外，还需改工作流）"
+    "refreshFlag: 是否清除分集弹幕",
+    "whitelist: 需配置，在播剧集放第一位；（挂播仅要求配置whitelist，讨论/弹幕除要求配置whitelist第一位以外，还需改工作流）"
   ]
 }
