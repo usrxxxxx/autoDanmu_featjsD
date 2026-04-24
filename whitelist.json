@@ -24,8 +24,8 @@
         "cooldownMinutes": 20
       },
       "discuss": {
-        "sendCount": 1050,
-        "intervalSeconds": 4,
+        "sendCount": 1070,
+        "intervalSeconds": 5,
         "cooldownMinutes": 0
       }
     },
@@ -37,7 +37,7 @@
       },
       "discuss": {
         "sendCount": 210,
-        "intervalSeconds": 4,
+        "intervalSeconds": 5,
         "cooldownMinutes": 20
       }
     }
