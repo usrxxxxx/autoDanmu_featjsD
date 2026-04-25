@@ -29,7 +29,8 @@
       "danmu": {
         "sendCount": 400,
         "intervalSeconds": 17,
-        "cooldownMinutes": 20
+        "cooldownMinutes": 20,
+        "danmuGroupSize": 75
       },
       "discuss": {
         "sendCount": 1070,
@@ -41,7 +42,8 @@
       "danmu": {
         "sendCount": 5000,
         "intervalSeconds": 17,
-        "cooldownMinutes": 0
+        "cooldownMinutes": 0,
+        "danmuGroupSize": 100
       },
       "discuss": {
         "sendCount": 210,
