@@ -17,6 +17,10 @@
     { "name": "风与潮", "episodes": [0] }
   ],
   "config": {
+    "like": {
+      "blockKeywords": ["女主", "老"],
+      "standaloneTarget": 10000
+    },
     "iqiyi": {
       "danmu": {
         "sendCount": 400,
