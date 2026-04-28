@@ -33,7 +33,7 @@
         "danmuGroupSize": 75
       },
       "discuss": {
-        "sendCount": 1070,
+        "sendCount": 1020,
         "intervalSeconds": 5,
         "cooldownMinutes": 0
       }
