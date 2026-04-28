@@ -18,12 +18,12 @@
   ],
   "config": {
     "like": {
-      "blockKeywords": ["女主", "老", "瘦"],
+      "blockKeywords": ["女主", "瘦"],
       "standaloneTarget": 10000
     },
     "searchConfig": {
-      "searchIntervalMs": 10000,
-      "maxSearchCount": 100
+      "searchIntervalMs": 8000,
+      "maxSearchCount": 50
     },
     "iqiyi": {
       "danmu": {
