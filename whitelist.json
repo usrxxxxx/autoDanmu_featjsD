@@ -38,7 +38,7 @@
         "cooldownMinutes": 0
       },
       "like": {
-        "blockKeywords": ["女主", "瘦"],
+        "blockKeywords": ["女主","湄", "瘦"],
         "standaloneTarget": 10000,
         "batchLimit": 200,
         "interval": 2,
@@ -58,17 +58,18 @@
         "cooldownMinutes": 0
       },
       "like": {
-        "blockKeywords": ["女主", "瘦"],
+        "blockKeywords": ["女主","湄", "瘦"],
         "standaloneTarget": 20000,
-        "batchLimit": 1000,
-        "interval": 2,
-        "cooldownMinutes": 10
+        "batchLimit": 2000,
+        "interval": 1,
+        "cooldownMinutes": 5
       }
     }
   },
   "readme":[
     "refreshFlag: 是否清除分集弹幕",
     "whitelist: 需配置，在播剧集放第一位；（挂播仅要求配置whitelist，讨论/弹幕除要求配置whitelist第一位以外，还需改工作流）",
-    "config:新插件预设默认数值，需配置；其中，like：点赞屏蔽词和上限(计划删除未区分平台的配置-对应版本v2.2)；searchConfig：搜索间隔和上限"
+    "config:新插件预设默认数值，需配置；其中，searchConfig：搜索间隔和上限",
+    "config中like配置：点赞屏蔽词和上限(计划删除未区分平台的配置-对应版本v2.2)；blockKeywords屏蔽词、standaloneTarget仅点赞时点赞数量上限、batchLimit每组上限"
   ]
 }
