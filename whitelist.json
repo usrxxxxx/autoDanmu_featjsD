@@ -40,7 +40,8 @@
       "like": {
         "blockKeywords": ["女主", "瘦"],
         "standaloneTarget": 20000,
-        "batchLimit": 200
+        "batchLimit": 200,
+        "cooldownMinutes": 10
       }
     },
     "tencent": {
@@ -58,7 +59,8 @@
       "like": {
         "blockKeywords": ["女主", "瘦"],
         "standaloneTarget": 10000,
-        "batchLimit": 1000
+        "batchLimit": 1000,
+        "cooldownMinutes": 10
       }
     }
   },
