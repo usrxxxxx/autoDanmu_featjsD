@@ -42,7 +42,8 @@
         "standaloneTarget": 10000,
         "batchLimit": 200,
         "interval": 2,
-        "cooldownMinutes": 10
+        "cooldownMinutes": 10,
+        "riskControl": true
       }
     },
     "tencent": {
@@ -62,7 +63,8 @@
         "standaloneTarget": 20000,
         "batchLimit": 2000,
         "interval": 1,
-        "cooldownMinutes": 5
+        "cooldownMinutes": 5,
+        "riskControl": true
       }
     }
   },
@@ -70,6 +72,6 @@
     "refreshFlag: 是否清除分集弹幕",
     "whitelist: 需配置，在播剧集放第一位；（挂播仅要求配置whitelist，讨论/弹幕除要求配置whitelist第一位以外，还需改工作流）",
     "config:新插件预设默认数值，需配置；其中，searchConfig：搜索间隔和上限",
-    "config中like配置：点赞屏蔽词和上限(计划删除未区分平台的配置-对应版本v2.2)；blockKeywords屏蔽词、standaloneTarget仅点赞时点赞数量上限、batchLimit每组上限"
+    "config中like配置：点赞屏蔽词和上限(计划删除未区分平台的配置-对应版本v2.2)；blockKeywords屏蔽词、standaloneTarget仅点赞时点赞数量上限、batchLimit每组上限、riskControl点赞风控开关，true时开启风控检测和风控冷却，false时使用组间冷却"
   ]
 }
