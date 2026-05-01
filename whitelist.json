@@ -33,14 +33,14 @@
         "danmuGroupSize": 75
       },
       "discuss": {
-        "sendCount": 1020,
+        "sendCount": 1010,
         "intervalSeconds": 5,
         "cooldownMinutes": 0
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦"],
         "standaloneTarget": 10000,
-        "batchLimit": 200,
+        "batchLimit": 100,
         "interval": 2,
         "cooldownMinutes": 10,
         "riskControl": true
@@ -60,10 +60,10 @@
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦"],
-        "standaloneTarget": 20000,
+        "standaloneTarget": 50000,
         "batchLimit": 2000,
         "interval": 1,
-        "cooldownMinutes": 5,
+        "cooldownMinutes": 0,
         "riskControl": true
       }
     }
