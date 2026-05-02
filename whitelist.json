@@ -33,13 +33,13 @@
         "danmuGroupSize": 75
       },
       "discuss": {
-        "sendCount": 1010,
+        "sendCount": 1005,
         "intervalSeconds": 5,
         "cooldownMinutes": 0
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
-        "standaloneTarget": 10000,
+        "standaloneTarget": 5000,
         "batchLimit": 100,
         "interval": 2,
         "cooldownMinutes": 10,
@@ -60,7 +60,7 @@
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
-        "standaloneTarget": 50000,
+        "standaloneTarget": 30000,
         "batchLimit": 2000,
         "interval": 1,
         "cooldownMinutes": 0,
