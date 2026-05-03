@@ -62,7 +62,7 @@
         "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
         "standaloneTarget": 20000,
         "batchLimit": 2000,
-        "interval": 1,
+        "interval": 2,
         "cooldownMinutes": 0,
         "riskControl": true, 
         "useApiMode": false
