@@ -54,9 +54,9 @@
         "danmuGroupSize": 100
       },
       "discuss": {
-        "sendCount": 210,
+        "sendCount": 200,
         "intervalSeconds": 4,
-        "cooldownMinutes": 0
+        "cooldownMinutes": 60
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
