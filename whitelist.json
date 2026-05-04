@@ -59,7 +59,7 @@
         "intervalSeconds": 4,
         "cooldownMinutes": 0,
         "discussGroupSize": 180,
-        "riskControlPauseMinutes": 60
+        "riskControlPauseMinutes": 75
       },
       "like": {
         "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
