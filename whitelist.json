@@ -59,7 +59,7 @@
         "intervalSeconds": 4,
         "cooldownMinutes": 0,
         "discussGroupSize": 180,
-        "riskControlPauseMinutes": 75,
+        "riskControlPauseMinutes": 0,
         "txDiscussSendCount": 1000,
         "txDiscussCooldownMinutes": 65
       },
