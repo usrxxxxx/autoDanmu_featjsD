@@ -1,0 +1,69 @@
+{ 
+  "allow":true,
+  "refreshFlag":true,
+  "whitelist": [
+    "佳偶天成",
+    "风与潮",
+    "无忧渡",
+    "流水迢迢"
+  ],
+  "config": {
+    "searchConfig": {
+      "searchIntervalMs": 8000,
+      "maxSearchCount": 50
+    },
+    "iqiyi": {
+      "danmu": {
+        "sendCount": 400,
+        "intervalSeconds": 17,
+        "cooldownMinutes": 20,
+        "danmuGroupSize": 75
+      },
+      "discuss": {
+        "sendCount": 1005,
+        "intervalSeconds": 5,
+        "cooldownMinutes": 0,
+        "discussGroupSize": 50
+      },
+      "like": {
+        "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
+        "standaloneTarget": 2000,
+        "batchLimit": 100,
+        "interval": 2,
+        "cooldownMinutes": 10,
+        "riskControl": true
+      }
+    },
+    "tencent": {
+      "danmu": {
+        "sendCount": 5000,
+        "intervalSeconds": 10,
+        "cooldownMinutes": 0,
+        "danmuGroupSize": 100
+      },
+      "discuss": {
+        "intervalSeconds": 4,
+        "discussGroupSize": 180,
+        "riskControlPauseMinutes": 0,
+        "txDiscussSendCount": 1000,
+        "txDiscussCooldownMinutes": 65
+      },
+      "like": {
+        "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
+        "standaloneTarget": 20000,
+        "batchLimit": 2000,
+        "interval": 2,
+        "cooldownMinutes": 0,
+        "riskControl": true, 
+        "useApiMode": false
+      }
+    }
+  },
+  "readme":[
+    "refreshFlag: 是否清除分集弹幕",
+    "whitelist: 需配置",
+    "config:新插件预设默认数值，需配置；其中，searchConfig：搜索间隔和上限",
+    "config中tencent.discuss配置：txDiscussSendCount发送数量、txDiscussCooldownMinutes组间冷却时间",
+    "config中tencent.like配置：blockKeywords屏蔽词、standaloneTarget仅点赞时点赞数量上限、batchLimit每组上限、riskControl点赞风控开关，true时开启风控检测和风控冷却，false时使用组间冷却、useApiMode为API点赞开关，true时强制使用API模式，false时优先使用DOM模式，失败时自动切换"
+  ]
+}
