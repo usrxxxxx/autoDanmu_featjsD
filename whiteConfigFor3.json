@@ -56,6 +56,13 @@
         "cooldownMinutes": 0,
         "riskControl": true, 
         "useApiMode": false
+      },
+      "discusslike": {
+        "interval": 5,
+        "standaloneTarget": 1000,
+        "batchLimit": 100,
+        "cooldownMinutes": 0,
+        "riskControlPauseMinutes": 20
       }
     }
   },
