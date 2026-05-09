@@ -70,7 +70,7 @@
         "interval": 2,
         "cooldownMinutes": 0,
         "riskControl": true, 
-        "useApiMode": false
+        "useApiMode": true
       }
     }
   },
