@@ -32,6 +32,13 @@
         "interval": 2,
         "cooldownMinutes": 10,
         "riskControl": true
+      },
+      "discusslike": {
+        "interval": 3,
+        "standaloneTarget": 1000,
+        "batchLimit": 200,
+        "cooldownMinutes": 5,
+        "riskControlPauseMinutes": 20
       }
     },
     "tencent": {
@@ -58,10 +65,10 @@
         "useApiMode": false
       },
       "discusslike": {
-        "interval": 5,
+        "interval": 3,
         "standaloneTarget": 1000,
-        "batchLimit": 100,
-        "cooldownMinutes": 0,
+        "batchLimit": 200,
+        "cooldownMinutes": 5,
         "riskControlPauseMinutes": 20
       }
     }
