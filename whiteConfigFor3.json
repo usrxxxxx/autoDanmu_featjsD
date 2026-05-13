@@ -34,7 +34,7 @@
         "riskControl": true
       },
       "discusslike": {
-        "interval": 3,
+        "interval": 1,
         "standaloneTarget": 1000,
         "batchLimit": 200,
         "cooldownMinutes": 5,
@@ -65,7 +65,7 @@
         "useApiMode": false
       },
       "discusslike": {
-        "interval": 3,
+        "interval": 1,
         "standaloneTarget": 1000,
         "batchLimit": 200,
         "cooldownMinutes": 5,
