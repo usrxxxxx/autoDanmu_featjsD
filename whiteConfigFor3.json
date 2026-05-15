@@ -22,7 +22,7 @@
       "discuss": {
         "sendCount": 1005,
         "intervalSeconds": 5,
-        "cooldownMinutes": 0,
+        "cooldownMinutes": 5,
         "discussGroupSize": 50
       },
       "like": {
