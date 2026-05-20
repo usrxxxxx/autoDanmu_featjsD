@@ -65,6 +65,9 @@
         "interval": 2,
         "cooldownMinutes": 0,
         "riskControl": true, 
+        "riskControlPauseMinutes": 60,
+        "riskControlTriggerBeforePause": 2,
+        "riskControlTriggerBeforeStop": 4,
         "useApiMode": true
       },
       "discusslike": {
