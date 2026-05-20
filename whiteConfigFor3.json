@@ -18,7 +18,10 @@
         "sendCount": 400,
         "intervalSeconds": 17,
         "cooldownMinutes": 20,
-        "danmuGroupSize": 75
+        "danmuGroupSize": 75,
+        "riskControlPauseMinutes": 20,
+        "riskControlTriggerBeforePause": 1,
+        "riskControlTriggerBeforeStop": 2
       },
       "discuss": {
         "sendCount": 1005,
