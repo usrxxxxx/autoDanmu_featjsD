@@ -36,7 +36,7 @@
       },
       "discusslike": {
         "interval": 1,
-        "standaloneTarget": 1000,
+        "standaloneTarget": 2000,
         "batchLimit": 200,
         "cooldownMinutes": 5,
         "riskControlPauseMinutes": 20
@@ -45,8 +45,8 @@
     "tencent": {
       "danmu": {
         "sendCount": 5000,
-        "intervalSeconds": 10,
-        "cooldownMinutes": 65,
+        "intervalSeconds": 8,
+        "cooldownMinutes": 35,
         "danmuGroupSize": 600
       },
       "discuss": {
@@ -54,7 +54,7 @@
         "discussGroupSize": 180,
         "riskControlPauseMinutes": 65,
         "txDiscussSendCount": 1000,
-        "txDiscussCooldownMinutes": 90,
+        "txDiscussCooldownMinutes": 60,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4
       },
@@ -65,7 +65,7 @@
         "interval": 2,
         "cooldownMinutes": 0,
         "riskControl": true, 
-        "riskControlPauseMinutes": 60,
+        "riskControlPauseMinutes": 65,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4,
         "useApiMode": true
