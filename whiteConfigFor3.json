@@ -49,7 +49,7 @@
       "danmu": {
         "sendCount": 5000,
         "intervalSeconds": 8,
-        "cooldownMinutes": 35,
+        "cooldownMinutes": 60,
         "danmuGroupSize": 600
       },
       "discuss": {
