@@ -25,8 +25,8 @@
       },
       "discuss": {
         "sendCount": 1005,
-        "intervalSeconds": 5,
-        "cooldownMinutes": 5,
+        "intervalSeconds": 4,
+        "cooldownMinutes": 3,
         "discussGroupSize": 50
       },
       "like": {
@@ -34,7 +34,7 @@
         "standaloneTarget": 2000,
         "batchLimit": 100,
         "interval": 2,
-        "cooldownMinutes": 35,
+        "cooldownMinutes": 60,
         "riskControl": true
       },
       "discusslike": {
