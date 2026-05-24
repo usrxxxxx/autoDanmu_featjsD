@@ -53,7 +53,7 @@
         "danmuGroupSize": 600
       },
       "discuss": {
-        "intervalSeconds": 4,
+        "intervalSeconds": 3,
         "discussGroupSize": 180,
         "riskControlPauseMinutes": 65,
         "txDiscussSendCount": 1000,
