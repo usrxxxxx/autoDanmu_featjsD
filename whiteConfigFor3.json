@@ -78,7 +78,7 @@
         "standaloneTarget": 1000,
         "batchLimit": 500,
         "cooldownMinutes": 20,
-        "riskControlPauseMinutes": 65,
+        "riskControlPauseMinutes": 30,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4
       }
