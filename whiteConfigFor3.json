@@ -50,7 +50,7 @@
         "sendCount": 5000,
         "intervalSeconds": 8,
         "cooldownMinutes": 60,
-        "danmuGroupSize": 600
+        "danmuGroupSize": 2000
       },
       "discuss": {
         "intervalSeconds": 3,
