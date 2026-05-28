@@ -42,7 +42,9 @@
         "standaloneTarget": 2000,
         "batchLimit": 200,
         "cooldownMinutes": 5,
-        "riskControlPauseMinutes": 20
+        "riskControlPauseMinutes": 20,
+      "riskControlTriggerBeforePause": 2,
+      "riskControlTriggerBeforeStop": 4 
       }
     },
     "tencent": {
@@ -89,7 +91,7 @@
     "whitelist: 需配置",
     "config:新插件预设默认数值，需配置；其中，searchConfig：搜索间隔和上限",
     "config中thresholdSeconds配置:视频结束阈值（秒）",
-    "config中tencent.discuss配置：txDiscussSendCount发送数量、txDiscussCooldownMinutes组间冷却时间、riskControlTriggerBeforePause暂停前需要连续检测到风控的次数、riskControlTriggerBeforeStop停止前需要连续检测到风控的次数",
+    "config中tencent.discuss配置：txDiscussSendCount发送数量、txDiscussCooldownMinutes组间冷却时间、riskControlTriggerBeforePause暂停前需要连续检测到风控的次数、riskControlTriggerBeforeStop停止前需要连续检测到风控的次数（0表示不启用停止功能）",
     "config中tencent.like配置：blockKeywords屏蔽词、standaloneTarget仅点赞时点赞数量上限、batchLimit每组上限、riskControl点赞风控开关，true时开启风控检测和风控冷却，false时使用组间冷却、useApiMode为API点赞开关，true时强制使用API模式，false时优先使用DOM模式，失败时自动切换",
     "config中tencent.discusslike配置：riskControlTriggerBeforePause暂停前需要连续检测到风控的次数、riskControlTriggerBeforeStop停止前需要连续检测到风控的次数"
   ]
