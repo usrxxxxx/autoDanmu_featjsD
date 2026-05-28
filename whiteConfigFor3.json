@@ -15,7 +15,7 @@
     },
     "iqiyi": {
       "danmu": {
-        "sendCount": 400,
+        "sendCount": 405,
         "intervalSeconds": 17,
         "cooldownMinutes": 20,
         "danmuGroupSize": 75,
