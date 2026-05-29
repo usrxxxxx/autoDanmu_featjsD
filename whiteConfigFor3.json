@@ -1,6 +1,6 @@
 { 
   "allow":true,
-  "refreshFlag":true,
+  "refreshFlag":false,
   "whitelist": [
     "佳偶天成",
     "风与潮",
