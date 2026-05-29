@@ -39,7 +39,7 @@
       },
       "discusslike": {
         "interval": 1,
-        "standaloneTarget": 2000,
+        "standaloneTarget": 5000,
         "batchLimit": 200,
         "cooldownMinutes": 5,
         "riskControlPauseMinutes": 20,
