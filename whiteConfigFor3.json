@@ -20,6 +20,7 @@
         "intervalSeconds": 17,
         "cooldownMinutes": 20,
         "danmuGroupSize": 75,
+        "danmuRiskEnabled": true,
         "riskControlPauseMinutes": 20,
         "riskControlTriggerBeforePause": 1,
         "riskControlTriggerBeforeStop": 2
