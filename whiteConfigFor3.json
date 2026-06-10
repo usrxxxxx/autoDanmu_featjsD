@@ -61,10 +61,10 @@
       },
       "discuss": {
         "intervalSeconds": 3,
-        "discussGroupSize": 180,
+        "discussGroupSize": 50,
         "riskControlPauseMinutes": 65,
-        "txDiscussSendCount": 1000,
-        "txDiscussCooldownMinutes": 60,
+        "txDiscussSendCount": 5000,
+        "txDiscussCooldownMinutes": 5,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4
       },
