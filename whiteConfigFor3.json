@@ -45,7 +45,7 @@
       "discusslike": {
         "interval": 1,
         "standaloneTarget": 5000,
-        "batchLimit": 200,
+        "batchLimit": 300,
         "cooldownMinutes": 5,
         "riskControlPauseMinutes": 20,
       "riskControlTriggerBeforePause": 2,
@@ -64,7 +64,7 @@
         "discussGroupSize": 50,
         "riskControlPauseMinutes": 65,
         "txDiscussSendCount": 5000,
-        "txDiscussCooldownMinutes": 5,
+        "txDiscussCooldownMinutes": 3,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4
       },
