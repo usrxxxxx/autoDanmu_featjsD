@@ -35,7 +35,7 @@
         "discussGroupSize": 50
       },
       "like": {
-        "blockKeywords": ["女主","湄", "瘦","念无双","宁","配音","老大","白宗"],
+        "blockKeywords": ["女主","CP","湄", "瘦","念无双","宁","配音","老大","白宗"],
         "standaloneTarget": 2000,
         "batchLimit": 100,
         "interval": 2,
