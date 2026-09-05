@@ -31,10 +31,10 @@
       },
       "discuss": {
         "sendCount": 1005,
-        "intervalSeconds": 3,
-        "cooldownMinutes": 3,
-        "discussGroupSize": 50,
-        "riskControlPauseMinutes": 5,
+        "intervalSeconds": 5,
+        "cooldownMinutes": 5,
+        "discussGroupSize": 30,
+        "riskControlPauseMinutes": 20,
         "riskControlTriggerBeforePause": 2,
         "riskControlTriggerBeforeStop": 4
       },
