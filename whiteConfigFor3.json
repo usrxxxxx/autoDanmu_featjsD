@@ -42,7 +42,7 @@
         "blockKeywords": ["秦俊杰","秦","韩品木","韩","男二","女主","CP","湄", "瘦","念无双","宁","配音","老大","白宗"],
         "standaloneTarget": 2000,
         "batchLimit": 100,
-        "interval": 2,
+        "interval": 5,
         "cooldownMinutes": 60,
         "riskControl": true
       },
