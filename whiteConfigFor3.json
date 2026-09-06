@@ -30,7 +30,7 @@
         "riskControlTriggerBeforeStop": 2
       },
       "discuss": {
-        "sendCount": 1005,
+        "sendCount": 3000,
         "intervalSeconds": 20,
         "cooldownMinutes": 30,
         "discussGroupSize": 100,
