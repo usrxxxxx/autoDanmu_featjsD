@@ -31,7 +31,7 @@
       },
       "discuss": {
         "sendCount": 3000,
-        "intervalSeconds": 20,
+        "intervalSeconds": 18,
         "cooldownMinutes": 30,
         "discussGroupSize": 100,
         "riskControlPauseMinutes": 20,
