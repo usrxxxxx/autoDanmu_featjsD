@@ -43,7 +43,7 @@
         "standaloneTarget": 3000,
         "batchLimit": 100,
         "interval": 3,
-        "cooldownMinutes": 60,
+        "cooldownMinutes": 50,
         "riskControl": true
       },
       "discusslike": {
