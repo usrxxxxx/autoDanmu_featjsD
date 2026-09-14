@@ -16,7 +16,7 @@
     "thresholdSeconds": 20,
     "searchConfig": {
       "searchIntervalMs": 8000,
-      "maxSearchCount": 50
+      "maxSearchCount": 100
     },
     "iqiyi": {
       "danmu": {
