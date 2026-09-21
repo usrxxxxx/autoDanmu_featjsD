@@ -18,6 +18,16 @@
       "searchIntervalMs": 8000,
       "maxSearchCount": 100
     },
+    "hangPlay" : { 
+      "playbackSpeed" : 1.25, 
+      "volume" : 35, 
+      "tasks" : { 
+        "danmaku" : false ,"like" : true ,"discuss" : true ,"discussLike" : true 
+      }, 
+      "limits" : { 
+        "danmaku" : 0, "like" : 200,  "discuss" : 30,"discussLike" : 100 
+      } 
+    }
     "iqiyi": {
       "danmu": {
         "sendCount": 405,
