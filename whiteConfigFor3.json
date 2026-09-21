@@ -13,7 +13,7 @@
   ],
   "config": {
     "cacheExpireDays": 7,
-    "thresholdSeconds": 50,
+    "thresholdSeconds": 180,
     "searchConfig": {
       "searchIntervalMs": 8000,
       "maxSearchCount": 100
