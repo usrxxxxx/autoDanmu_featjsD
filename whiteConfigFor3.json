@@ -22,12 +22,12 @@
       "playbackSpeed" : 1.25, 
       "volume" : 35, 
       "tasks" : { 
-        "danmaku" : false ,"like" : true ,"discuss" : true ,"discussLike" : true 
+        "danmaku" : true,"like" : true,"discuss" : true,"discussLike" : true 
       }, 
       "limits" : { 
-        "danmaku" : 0, "like" : 200,  "discuss" : 30,"discussLike" : 100 
+        "danmaku" : 20, "like" : 200,  "discuss" : 30,"discussLike" : 100 
       } 
-    }
+    },
     "iqiyi": {
       "danmu": {
         "sendCount": 405,
