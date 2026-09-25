@@ -25,7 +25,7 @@
         "danmaku" : true,"like" : true,"discuss" : true,"discussLike" : true 
       }, 
       "limits" : { 
-        "danmaku" : 20, "like" : 200,  "discuss" : 30,"discussLike" : 100 
+        "danmaku" : 20, "like" : 150,  "discuss" : 30,"discussLike" : 500 
       } 
     },
     "iqiyi": {
